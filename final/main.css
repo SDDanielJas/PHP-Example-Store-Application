@@ -1,0 +1,23 @@
+html {
+    background-color: chocolate
+}
+body {
+    background-color: white;
+    border:  5px dashed wheat;
+    margin: 3 auto;
+    padding: 0 3em;
+    font-family: Arial, sans-serif;
+    width: auto;
+}
+
+header {
+    border-bottom:  5px solid chocolate;
+    text-align: center
+}
+
+td, th {
+    padding: .2em .5em .2em .5em;
+    vertical-align: top;
+    text-align: center;
+    border:  2px solid wheat;
+}
